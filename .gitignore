@@ -1,0 +1,39 @@
+# Python
+.venv/
+sistema-horas-completo/backend/venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Node
+node_modules/
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/build/
+**/.vite/
+
+# Environment and IDE
+.env
+.env.*
+!.env.example
+!**/.env.example
+.vscode/
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.kdbx
+secrets.*
+
+# Runtime and uploads
+uploads/
+sistema-horas-completo/backend/uploads/
+backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+{
+  "name": "sistema-horas-backend",
+  "private": true,
+  "scripts": {
+    "dev": "..\\..\\.venv\\Scripts\\python.exe src\\main.py"
+  }
+}
