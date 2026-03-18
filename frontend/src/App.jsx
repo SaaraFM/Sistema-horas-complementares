@@ -338,9 +338,6 @@ export default function App() {
             Sistema desenvolvido para facilitar a organização de atividades
             complementares acadêmicas.
           </p>
-          <p className="text-sm mt-1 font-medium text-foreground">
-            Desenvolvido por Sara Ferraz
-          </p>
           {currentProject && (
             <p className="text-xs mt-2">
               Projeto ID: {currentProject.project_id} | Total de arquivos:{" "}
